@@ -11,8 +11,8 @@ Currently studying for MSc in Computer Science
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-#🔭 I’m currently working on ... My MSc Computer Science
-#🌱 I’m currently learning ... Python, HTML5, CSS3, PHP, mySQL & Javascript
+🔭 I’m currently working on ... My MSc Computer Science  
+🌱 I’m currently learning ... Python, HTML5, CSS3, PHP, mySQL & Javascript
 
 
 # 💻Tech Stack
